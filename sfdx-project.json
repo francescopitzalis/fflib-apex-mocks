@@ -1,11 +1,19 @@
 {
   "packageDirectories": [
     {
-      "path": "sfdx-source/apex-mocks",
-      "default": true
+      "path": "sfdx-source",
+      "package": "Apex Mocks",
+      "versionName": "2024-07-30",
+      "versionNumber": "1.0.0.NEXT",
+      "default": true,
+      "versionDescription": ""
     }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "61.0"
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "Apex Mocks": "0Ho1v000000k9fjCAA",
+    "Apex Mocks@1.0.0-1": "04t1v0000021v3TAAQ"
+  }
 }
