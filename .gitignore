@@ -31,6 +31,7 @@ Referenced Packages/
 # Illuminated Cloud Related
 .idea/
 IlluminatedCloud
+.illuminatedCloud/
 
 # SFDX Related
 .sfdx/
