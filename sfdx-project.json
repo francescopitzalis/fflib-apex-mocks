@@ -3,9 +3,20 @@
     {
       "path": "sfdx-source/apex-mocks",
       "default": true
+    },
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "sfdx-source",
+      "default": false,
+      "package": "Apex Mocks",
+      "versionDescription": ""
     }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "67.0"
+  "sourceApiVersion": "67.0",
+  "packageAliases": {
+    "Apex Mocks": "0HoSW00000000pd0AA"
+  }
 }
