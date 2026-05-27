@@ -47,3 +47,10 @@ package-lock.json
 
 sfdx-source/group*
 research/
+
+# Added by Illuminated Cloud
+.localdev/
+/out/
+**/tsconfig*.json
+**/*.tsbuildinfo
+**/graphql.config.yml
